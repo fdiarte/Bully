@@ -1,0 +1,10 @@
+{SAMPLE APNS PAYLOAD.... REPLACE ME WITH DESIRED PAYLOAD}
+
+{
+   "aps" : {
+      "alert" : {
+         "loc-key" : "GAME_PLAY_REQUEST_FORMAT",
+         "loc-args" : [ "Shelly", "Rick"]
+      }
+   }
+}
