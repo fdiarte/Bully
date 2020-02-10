@@ -2,7 +2,7 @@ import os
 
 
 def install_modules():
-    modules_to_install = ['jwt', 'hyper']
+    modules_to_install = ['pyjwt', 'hyper']
 
     for module in modules_to_install:
         print(f"Installing {module}")
